@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandra-lionga!
 - 👀 I’m interested in baking, books and coding ofc ;)
-- 🌱 I’m currently learning JavaScript @ BrainStation SWE Program! ❤️🚀
+- 🌱 I’m currently learning Express.js @ BrainStation SWE Program! ❤️🚀
 - 📫 How to reach me: LinkedIn is the best place at the moment. Let's connect! 
 - ⚡ Fun fact: I am currently learning French and am at the B1 level!
 
