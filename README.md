@@ -6,6 +6,9 @@ Hi, I’m Alexandra—a Full Stack Developer with 3+ years of experience in Appl
 
 <p align="center">
 I’m passionate about building impactful solutions, helping people, and embracing lifelong learning (with a side of cookies, of course)! 🚀🍪❤️
+🌱 Lorem..
+💡 Lorem.t.
+🌍 Lorem.
 </p>
 
 <h4 align="center">
