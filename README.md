@@ -1,4 +1,5 @@
 <h3 align="center"> Hi there 👋</h3>
+_______________________________________________________________________________________________________________________________________________________________
 
 <p align="center">
 Hi, I’m Alexandra—a Full Stack Developer with 3+ years of experience in Application Support.</p>
