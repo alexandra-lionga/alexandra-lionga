@@ -9,6 +9,12 @@ Hi, I’m Alexandra—a Full Stack Developer with 3+ years of experience in Appl
 I’m passionate about building impactful solutions, helping people, and embracing lifelong learning (with a side of cookies, of course)!🚀🍪❤️
 </p>
 
+A little more about myself:
+🌱 Passionate about creating solutions that empower others and provide exceptional support.
+🧁 Aspiring cake designer, focusing on textured and three-dimensional creations.
+🇫🇷 French language learner, constantly expanding my horizons and embracing new cultures.
+💻 Driven by the excitement of solving problems through code and building innovative, user-centered software.
+
 <h4 align="center">
 💻 Check out my <a href="https://alexandralionga.dev">portfolio.</a> | ❤️ Take a look at my latest project: <a href="https://github.com/alexandra-lionga/iris">IRIS</a>.
 </h4>
