@@ -12,14 +12,14 @@
 🌐 French language learner, constantly expanding my horizons and embracing new cultures.<br/>
 💻 Driven by the excitement of solving problems through code and building innovative, user-centered software.
 </p>
-_______________________________________________________________________________________________________________________________________________
-
-<h3 align="center">
+<p>_______________________________________________________________________________________________________________________________________________
+</p>
+<h3>
 Tech Stack
 </h3>
 
-<h3 align="center">
-<p align="center">
+<h3>
+<p>
   <a href="https://alexandralionga.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,py,anaconda,nodejs,mysql,nodejs" />
      <img src="https://skillicons.dev/icons?i=express,react,git,github,postman,linux,pycharm,selenium,vscode" />
@@ -28,10 +28,10 @@ Tech Stack
 </h3>
 <p>_______________________________________________________________________________________________________________________________________________
 </p>
-<h4 align="center">
+<h3>
   Let's connect:
-</h4>
-<p align="center">
+</h3>
+<p >
   <a href="https://www.linkedin.com/in/alexandralionga">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
