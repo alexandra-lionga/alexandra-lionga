@@ -8,7 +8,6 @@
 
 🧡 Full Stack Developer with 3+ years of experience in Technical Support.<br/>
 🌱 Passionate about creating solutions that empower users and provide meaningful, exceptional experiences.<br/>
-🧁 Aspiring cake designer, focusing on textured and three-dimensional creations.<br/>
 🌐 French language learner, constantly expanding my horizons and embracing new cultures.<br/>
 💻 Driven by the excitement of solving problems through code and building innovative, user-centered software.
 </p>
